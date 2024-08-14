@@ -1,0 +1,12 @@
+
+.footer{
+    color: tomato;
+    background-color: thistle;
+    font-size: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+  }
